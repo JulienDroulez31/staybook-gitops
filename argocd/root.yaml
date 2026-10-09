@@ -10,7 +10,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<votre-login>/staybook-gitops.git   # À COMPLÉTER
+    repoURL: https://github.com/JulienDroulez31/staybook-gitops.git   # À COMPLÉTER
     targetRevision: HEAD
     path: argocd/apps
   destination:
